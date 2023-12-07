@@ -4,5 +4,5 @@ numpy
 matplotlib
 missingno
 seaborn
-sklearn
+scikit-learn
 joblib
